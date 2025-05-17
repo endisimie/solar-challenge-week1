@@ -1,8 +1,7 @@
 # Virtual environment files
 .venv/
 # Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb
+
 # Data files
 data/
 *.csv
