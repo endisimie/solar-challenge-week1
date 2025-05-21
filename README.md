@@ -1,5 +1,5 @@
 # solar-challenge-week1
-## Environment Setup
+
 
 
    \`
@@ -16,11 +16,8 @@ This is a Streamlit-based dashboard for visualizing Global Horizontal Irradiance
 - 🏆 Table of top regions by GHI
 
 ### 📦 How to Run
+## Environment Setup
 
-1. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
 1. Clone this repository
 2. Create virtual environment:
    \`
